@@ -1,4 +1,4 @@
- # Multiprocessing stackdriver log extraction in windows desktop
+ # Multiprocessing stackdriver log extraction to your local windows machine
  
 Checks for 
 * gcloud installation,
@@ -15,9 +15,23 @@ Press Enter to start the query building
 
 ![Query builder](/ss/2.jpg)
 
+
 * Press enter for adding more key-value pairs
+* Enter 'q' from adding key-value pairs
+* Finally the filter arguments are displayed for reference. 
 
 ![Query builder - additional arguments](/ss/3.jpg)
+
+* Multiprocessing starts based on the number of cpu cores in your local system
+
+![Multiprocessing](/ss/4.jpg)
+
+* The extracted information is saved in .log format
+* The contents of the log file will be in pretty printed Json format
+
+![Log file](/ss/5.jpg)
+
+
 
 
 
