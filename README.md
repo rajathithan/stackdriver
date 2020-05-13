@@ -24,12 +24,12 @@ Press Enter to start the query building
 
 * Multiprocessing starts based on the number of cpu cores in your local system
 
-![Multiprocessing](/ss/4.jpg)
+![Multiprocessing](/ss/4.JPG)
 
 * The extracted information is saved in .log format
 * The contents of the log file will be in pretty printed Json format
 
-![Log file](/ss/5.jpg)
+![Log file](/ss/5.JPG)
 
 
 
