@@ -1,4 +1,4 @@
- # Multiprocessing stackdriver log extraction to your local windows machine
+ # Multiprocessing stackdriver log extraction in your local windows machine
  
 Checks for 
 * gcloud installation,
