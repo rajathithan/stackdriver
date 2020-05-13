@@ -2,3 +2,4 @@
  
  
 
+![Check gloud installation](1.jpg)
