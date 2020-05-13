@@ -2,4 +2,4 @@
  
  
 
-![Check gloud installation](1.jpg)
+![Check gloud installation](/ss/1.jpg)
