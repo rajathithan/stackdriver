@@ -1,4 +1,4 @@
- # Multiprocessing stackdriver log extraction in your local windows machine
+ # Multiprocessing stackdriver log extraction to your local windows machine
  
  This script helps in extracting the logs faster from stackdriver. 
  
